@@ -1,0 +1,20 @@
+[
+  {
+    "id": "group_fb9db132",
+    "name": "Roommates",
+    "peer_ids": [
+      "peer_ebb0ea42",
+      "peer_507b3d58"
+    ]
+  },
+  {
+    "id": "group_b171622e",
+    "name": "Fatties",
+    "peer_ids": [
+      "peer_ebb0ea42",
+      "peer_ec384830",
+      "peer_76de9d21",
+      "peer_507b3d58"
+    ]
+  }
+]

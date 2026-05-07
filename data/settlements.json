@@ -1,0 +1,50 @@
+[
+  {
+    "id": "settlement_869a2029",
+    "from_peer_id": "peer_ec384830",
+    "to_peer_id": "peer_76de9d21",
+    "amount": 19.25,
+    "date": "2026-05-06",
+    "note": "Paid balance"
+  },
+  {
+    "id": "settlement_70efd51a",
+    "from_peer_id": "peer_ebb0ea42",
+    "to_peer_id": "peer_507b3d58",
+    "amount": 1080.75,
+    "date": "2026-05-06",
+    "note": "Paid balance"
+  },
+  {
+    "id": "settlement_19e685ce",
+    "from_peer_id": "peer_ebb0ea42",
+    "to_peer_id": "peer_76de9d21",
+    "amount": 38.5,
+    "date": "2026-05-06",
+    "note": "Paid balance"
+  },
+  {
+    "id": "settlement_2978a124",
+    "from_peer_id": "peer_507b3d58",
+    "to_peer_id": "peer_ebb0ea42",
+    "amount": 19.25,
+    "date": "2026-05-06",
+    "note": ""
+  },
+  {
+    "id": "settlement_2d70d59e",
+    "from_peer_id": "peer_ec384830",
+    "to_peer_id": "peer_ebb0ea42",
+    "amount": 19.25,
+    "date": "2026-05-06",
+    "note": ""
+  },
+  {
+    "id": "settlement_a0d57bca",
+    "from_peer_id": "peer_76de9d21",
+    "to_peer_id": "peer_ebb0ea42",
+    "amount": 19.25,
+    "date": "2026-05-06",
+    "note": ""
+  }
+]

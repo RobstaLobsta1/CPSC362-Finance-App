@@ -1,0 +1,70 @@
+[
+  {
+    "id": "expense_f0ebc9a2",
+    "amount": 2100.0,
+    "date": "2026-05-05",
+    "description": "Rent",
+    "payer_id": "peer_507b3d58",
+    "participant_ids": [
+      "peer_ebb0ea42",
+      "peer_507b3d58"
+    ],
+    "split_type": "custom",
+    "custom_splits": {
+      "peer_ebb0ea42": 1100.0,
+      "peer_507b3d58": 1000.0
+    },
+    "group_id": "group_fb9db132"
+  },
+  {
+    "id": "expense_53a10ef8",
+    "amount": 77.0,
+    "date": "2026-05-05",
+    "description": "Raising Canes",
+    "payer_id": "peer_76de9d21",
+    "participant_ids": [
+      "peer_ebb0ea42",
+      "peer_ec384830",
+      "peer_76de9d21",
+      "peer_507b3d58"
+    ],
+    "split_type": "equal",
+    "custom_splits": {},
+    "group_id": "group_b171622e"
+  },
+  {
+    "id": "expense_b453f8f2",
+    "amount": 77.0,
+    "date": "2026-05-06",
+    "description": "Boba",
+    "payer_id": "peer_ebb0ea42",
+    "participant_ids": [
+      "peer_ebb0ea42",
+      "peer_ec384830",
+      "peer_76de9d21",
+      "peer_507b3d58"
+    ],
+    "split_type": "equal",
+    "custom_splits": {},
+    "group_id": "group_b171622e"
+  },
+  {
+    "id": "expense_5cfead1c",
+    "amount": 99.0,
+    "date": "2026-05-06",
+    "description": "Food",
+    "payer_id": "peer_ec384830",
+    "participant_ids": [
+      "peer_ebb0ea42",
+      "peer_ec384830",
+      "peer_76de9d21"
+    ],
+    "split_type": "custom",
+    "custom_splits": {
+      "peer_ebb0ea42": 0.0,
+      "peer_ec384830": 99.0,
+      "peer_76de9d21": 0.0
+    },
+    "group_id": ""
+  }
+]
